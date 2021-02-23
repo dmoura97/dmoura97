@@ -10,5 +10,5 @@ Sou um programador back-end com a stack NodeJS e amo mobile com react-native :co
 - 📍 São Paulo
 - 💻 Engenheiro de Software<br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-moura97/)](https://www.linkedin.com/in/danilo-moura97//)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-moura97/)](https://www.linkedin.com/in/danilo-moura97/)
 
