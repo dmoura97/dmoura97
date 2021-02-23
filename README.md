@@ -8,5 +8,7 @@ Sou um programador back-end com a stack NodeJS e amo mobile com react-native :co
 <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO e seriados no Netflix
 - 📍 São Paulo
-- 💻 Engenheiro de Software
+- 💻 Engenheiro de Software<br/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-moura97/)](https://www.linkedin.com/in/danilo-moura97//)
 
