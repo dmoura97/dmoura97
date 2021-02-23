@@ -11,5 +11,5 @@ Sou um programador back-end com a stack NodeJS e mobile com react-native :comput
 - 💻 Engenheiro de Software<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-moura97/)](https://www.linkedin.com/in/danilo-moura97/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dvdsantos@gmail.com)](mailto:contato.dvdsantos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilo.moura97@gmail.com)](mailto:danilo.moura97@gmail.com)
 
