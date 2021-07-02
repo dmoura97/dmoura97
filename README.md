@@ -4,7 +4,7 @@ Meu nome é Danilo Moura.<br/>
 <br/>
 Engenheiro de Software, apaixonado por resolver problemas utilizando a programação.<br/>
 Sou um programador back-end com a stack NodeJS e mobile com react-native :computer:
-<br/> :rocket:  &nbsp; Buscando uma vaga de emprego na área de tecnologia.
+<br/> :rocket:  &nbsp; Desenvolvedor Back-end NodeJS da empresa DevMagic's.
 <br/> :computer: &nbsp; Minha stack: ReactJS, NodeJs, React Native & Typescript
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO e seriados no Netflix
 - 📍 São Paulo
